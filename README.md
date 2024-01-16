@@ -31,5 +31,3 @@ AWS EKS에 대한 설치와 구성 및 관리, 네트워크, 스토리지 ,보�
 ### [EKS Service Mesh](eks-service-mesh/) (1h)
 
 
-
-블로그 관련 문의 내용은 CHOI, WOO HYUNG ([whchoi@amazon.com](mailto:whcho@amazon.com), [whchoi98@gmail.com](mailto:whchoi98@gmail.com)) 으로 문의하십시요.
